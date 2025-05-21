@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "nombre": "Mark",
+    "especie": "Perro",
+    "raza": "Beagle",
+    "foto": "https://demascotas.info/wp-content/uploads/2018/09/pet_animal_puppy_beagle_mammals_dog_cute_look-1205494.jpg",
+    "descripcion": "Este hermoso perrito busca un hogar para siempre, es muy dulce y juguetón, tiene entre 1 y 2 años de edad. Se entrega con vacunas."
+  },
+  {
+    "id": 2,
+    "nombre": "Jacob",
+    "especie": "Gato",
+    "raza": "Siamés",
+    "foto": "https://estaticos.muyinteresante.es/media/cache/1140x_thumb/uploads/images/gallery/591ec9b95bafe8a5c53c986a/gato-siames_0.jpg",
+    "descripcion": "Gatito cariñoso, amoroso y amable con niños y adultos. Poco sociable en exteriores."
+  },
+  {
+    "id": 3,
+    "nombre": "Max",
+    "especie": "Perro",
+    "raza": "Schnauzer",
+    "foto": "https://perro.shop/wp-content/uploads/Schnauzer-mediano.jpg",
+    "descripcion": "Hermoso y bien cuidado. Juguetón."
+  },
+  {
+    "id": 4,
+    "nombre": "Larry",
+    "especie": "Perro",
+    "raza": "Pastor alemán",
+    "foto": "https://www.hola.com/imagenes/estar-bien/20191004150785/pastor-aleman-raza-de-perro-caracteristicas/0-728-57/raza-de-perro-pastor-aleman-m.jpg",
+    "descripcion": "Se da en adopción a este hermoso perrito por motivos de viaje. Está con todas sus vacunas."
+  },
+  {
+    "id": 5,
+    "nombre": "Lorax",
+    "especie": "Gato",
+    "raza": "Sphynx",
+    "foto": "https://i.insider.com/5e6a114b235c1844af18ec92?width=600&format=jpeg&auto=webp",
+    "descripcion": "Se da en adopción a una buena familia que le de mucho cariño."
+  },
+  {
+    "id": 6,
+    "nombre": "Misifú",
+    "especie": "Gato",
+    "raza": "Persa",
+    "foto": "https://ateuves.es/wp-content/uploads/2018/03/at0318_gato_persa_enfermedades_portada.jpg",
+    "descripcion": "Misifú tiene 1 año y 9 meses, es tierno, juguetón y amigable."
+  }
+]
