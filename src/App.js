@@ -1,11 +1,16 @@
 import React from 'react';
-import GaleriaMascotas from './components/GaleriaMascotas';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import Galeria from './Galeria';
+import DetalleMascota from './DetalleMascota';
 
 function App() {
   return (
-    <div>
-      <GaleriaMascotas />
-    </div>
+    <Router>
+      <Routes>
+        <Route path="/" element={<Galeria />} />
+        <Route path="/mascota/:id" element={<DetalleMascota />} />
+      </Routes>
+    </Router>
   );
 }
 
